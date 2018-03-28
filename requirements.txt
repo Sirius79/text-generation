@@ -1,0 +1,18 @@
+!wget http://www.gutenberg.org/ebooks/1661.txt.utf-8
+
+!sed -i 1,57d 1661.txt.utf-8
+!sed -i 12625,129955d 1661.txt.utf-8
+!sed -i 1,4d 1661.txt.utf-8
+!sed -i 484,486d 1661.txt.utf-8
+!sed -i 963,965d 1661.txt.utf-8
+!sed -i 1120,1121d 1661.txt.utf-8
+!sed -i 2227,2228d 1661.txt.utf-8
+!sed -i 3028,3029d 1661.txt.utf-8
+!sed -i 4155,4156d 1661.txt.utf-8
+!sed -i 5048,5049d 1661.txt.utf-8
+!sed -i 6152,6153d 1661.txt.utf-8
+!sed -i 7129,7130d 1661.txt.utf-8
+!sed -i 8335,8336d 1661.txt.utf-8
+!sed -i 9300,9301d 1661.txt.utf-8
+!sed -i 10324,10325d 1661.txt.utf-8
+!sed -i 11451,11452d 1661.txt.utf-8
